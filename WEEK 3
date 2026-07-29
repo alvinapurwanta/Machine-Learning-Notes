@@ -1,0 +1,65 @@
+## REGRESSION
+continous numbers
+
+So basically its just predicting numbers
+like umm, an example
+
+we can see the price of a house
+it will depends on how big the lot is and how much industry material that its uses?
+like 
+
+100 m2, it will be 150k
+200 m2 it will be 200k so on, etc
+then it will predict the number or how much is it based on the square m2
+does that make any sense??
+
+we use the linear graphic so it will look obvious 
+
+
+## CLASSIFICATION
+
+it will more like predicting a category like
+i watch lots of horror movies so they will categorize me as a horror fan?
+like IS SHE A HORROR FAN?
+YES OR NO? YES
+DOES THAT MAKE SENSE???
+
+oh we also use probability 
+like will i like thriller movies??
+
+theres a chance like
+25% no? cause of some of the thriller movies taht i dont like???
+and 75% yes, and if probability > 0.5
+YES 
+so like 
+75% --> yes
+
+## Decision boundary
+SEAPARATE 2 DIFFERENT GROUPS
+
+so like as an example
+I like cats
+My friend hates cats
+
+so like the line between me and my friend is called decision boundary
+like oh okay i watch and like cats videos
+and my friends just skip it and the line between us is called decision boundary
+so like instagram wont show my friend some cats videos
+and instagram will show me heaps of cats videos
+
+
+
+
+
+
+# Confusion Matrix
+if AI can predict about 100 stocks
+some are right
+some are wrong
+
+AI predicted | Reality | Name
+UP            UP        True positive
+DOWN          DOWN      True Negative
+UP            DOWN      False positive
+DOWN          UP        False Negative
+
