@@ -1,0 +1,63 @@
+# MACHINE LEARNING CONCEPTS
+
+# Supervises Learning (its from labelled date) we got the informations ets
+if you show the machine pictures of some animals
+zebras or capibaras
+
+like
+1. zebra
+2. capibara
+3. zebra
+4. capibara
+
+then the machine will predict or maybe know what will come out next which is zebra
+*WELL TRAINED*
+and it will learn by its look, zebras are bigger and capibara is more round lol
+
+so its well trained. 99% would guess it correctly lol
+
+
+ohhhh and lets not forget the real world examples
+we know the difference between spams and not spams, real and not real even the AI pictures so are the machine
+
+*FEATURES AND LABELS*
+features are literally informations and we tell the machine what are the informations
+labels are the answers they kinda have to know the answer somehow? lol
+then 
+
+
+*TRAIN AND TEST SPLIT*
+
+like what it says train and test
+we show them the machine
+
+
+800 pictrues of cats, so we are training them oh these are 800 pictrues of cats
+then we will show them  NEW 200 PICTRUES OF DOGS, SO WE ARE TESTING THEM
+we evaluate how it works and does it work like how we want it
+
+*OVERFITTING AND UNDERFITTING*
+
+can we not forget about GOOD FITTING
+anything thats less or over is bad
+like 
+
+OVERFITTING
+The machine will learn everything THAT WE PROVIDES which is good but then
+if we give them a new information, it will act like patrick star from spongebob
+dumb asf? so its just bad
+
+
+yeh so this one is more like, its so intense like human too focus on learning 
+intensely instead of looking pattern that the relationship cant be saved L O L
+
+UNDERFITTING
+The machine will learn less and almost no informations so yk if we give it new
+information it will like a new caveman? (HUH HUH HUH?? LOL)
+
+Bad with training and testing just bad
+
+GOOD FITTING
+the best one, not less and not over or performative
+The machine will learn and will always learn new information we give them so
+it not useless yay the best one
