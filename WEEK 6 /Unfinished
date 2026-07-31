@@ -1,0 +1,10 @@
+# LOOKAHEAD BIAS (DATA LEAKAGE)
+
+Its accidentally we give the machine the answer that we are trying to find
+as an example:
+
+ we wanna know about tomorrow's weather but like we give it an information like today's weather, location, rain possibility, etc
+so we give it answer indirectly, all the possibilities you know lol
+
+THEN WE HAVE AUTOCORRELATION
+
